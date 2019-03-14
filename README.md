@@ -1,1 +1,1 @@
-# burgerking-sample-app
+# burgerKingApp
